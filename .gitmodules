@@ -1,9 +1,10 @@
-[submodule "dict"]
-	path = dict
-	url = git@agrodigit.gitlab.yandexcloud.net:agdtpro/embedded/sandbox/matlab_project_test/dict.git
-[submodule "sub_second"]
-	path = sub_second
-	url = git@agrodigit.gitlab.yandexcloud.net:agdtpro/embedded/sandbox/matlab_project_test/sub_second.git
-[submodule "sub_first"]
-	path = sub_first
-	url = git@agrodigit.gitlab.yandexcloud.net:agdtpro/embedded/sandbox/matlab_project_test/sub_first.git
+
+[submodule "donstu_automotive_lab_07_first"]
+	path = donstu_automotive_lab_07_first
+	url = git@github.com:levadny/donstu_automotive_lab_07_first.git
+[submodule "donstu_automotive_lab_07_second"]
+	path = donstu_automotive_lab_07_second
+	url = git@github.com:levadny/donstu_automotive_lab_07_second.git
+[submodule "donstu_automotive_lab_07_dict"]
+	path = donstu_automotive_lab_07_dict
+	url = git@github.com:levadny/donstu_automotive_lab_07_dict.git
