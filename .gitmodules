@@ -1,10 +1,1 @@
-
-[submodule "donstu_automotive_lab_06_first"]
-	path = donstu_automotive_lab_06_first
-	url = git@github.com:levadny/donstu_automotive_lab_06_first.git
-[submodule "donstu_automotive_lab_06_second"]
-	path = donstu_automotive_lab_06_second
-	url = git@github.com:levadny/donstu_automotive_lab_06_second.git
-[submodule "donstu_automotive_lab_06_dict"]
-	path = donstu_automotive_lab_06_dict
-	url = git@github.com:levadny/donstu_automotive_lab_06_dict.git
+ 
